@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418538711362",
+    "project_id": "moodbeat-705c5",
+    "storage_bucket": "moodbeat-705c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418538711362:android:d1c635733e981dd50100db",
+        "android_client_info": {
+          "package_name": "com.example.mood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418538711362-296gachfnokhlhs9tuguj0gl7fk399tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6NnUd24A29HxVs1bobixEGTqiezpN6YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418538711362-296gachfnokhlhs9tuguj0gl7fk399tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
